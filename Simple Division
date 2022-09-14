@@ -1,0 +1,8 @@
+num = int(input("Pick a number, any number!")
+
+if(num%4 == 0):
+  print("The number you have selected is divisible by 4!")
+elif(num%2 == 0):
+  print("The number you have selected is divisible by 2!")
+else:
+  print("The number you have selected id odd")
