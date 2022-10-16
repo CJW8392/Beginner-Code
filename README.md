@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CJW8392
-- 👀 I’m interested in starting my path into the world of programming.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m Cj Wilson @CJW8392
+- 👀 I’m interested in starting my path into the world of programming, and in the future transitioning into a software engineering role.
+- 🌱 I’m currently an Electrical Engineer and interested in learning python.
 - 💞️ I’m looking to collaborate on any and all simple projects to help me better understand the material.
 - 📫 How to reach me by email: cjw8392@gmail.com
 
